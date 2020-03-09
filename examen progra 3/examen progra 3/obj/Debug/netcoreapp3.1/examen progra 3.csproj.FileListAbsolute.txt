@@ -1,0 +1,11 @@
+D:\vm.iis\examen progra 3\examen progra 3\examen progra 3\bin\Debug\netcoreapp3.1\examen progra 3.exe
+D:\vm.iis\examen progra 3\examen progra 3\examen progra 3\bin\Debug\netcoreapp3.1\examen progra 3.deps.json
+D:\vm.iis\examen progra 3\examen progra 3\examen progra 3\bin\Debug\netcoreapp3.1\examen progra 3.runtimeconfig.json
+D:\vm.iis\examen progra 3\examen progra 3\examen progra 3\bin\Debug\netcoreapp3.1\examen progra 3.runtimeconfig.dev.json
+D:\vm.iis\examen progra 3\examen progra 3\examen progra 3\bin\Debug\netcoreapp3.1\examen progra 3.dll
+D:\vm.iis\examen progra 3\examen progra 3\examen progra 3\bin\Debug\netcoreapp3.1\examen progra 3.pdb
+D:\vm.iis\examen progra 3\examen progra 3\examen progra 3\obj\Debug\netcoreapp3.1\examen progra 3.csprojAssemblyReference.cache
+D:\vm.iis\examen progra 3\examen progra 3\examen progra 3\obj\Debug\netcoreapp3.1\examen progra 3.AssemblyInfoInputs.cache
+D:\vm.iis\examen progra 3\examen progra 3\examen progra 3\obj\Debug\netcoreapp3.1\examen progra 3.AssemblyInfo.cs
+D:\vm.iis\examen progra 3\examen progra 3\examen progra 3\obj\Debug\netcoreapp3.1\examen progra 3.dll
+D:\vm.iis\examen progra 3\examen progra 3\examen progra 3\obj\Debug\netcoreapp3.1\examen progra 3.pdb

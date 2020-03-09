@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "examen progra 3/1.0.0": {
+        "runtime": {
+          "examen progra 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "examen progra 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
