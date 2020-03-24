@@ -1,0 +1,7 @@
+D:\programacionIIIvmml\tareas\tarea 6\tarea 6\bin\Debug\tarea 6.exe.config
+D:\programacionIIIvmml\tareas\tarea 6\tarea 6\bin\Debug\tarea 6.exe
+D:\programacionIIIvmml\tareas\tarea 6\tarea 6\bin\Debug\tarea 6.pdb
+D:\programacionIIIvmml\tareas\tarea 6\tarea 6\obj\Debug\tarea 6.csprojAssemblyReference.cache
+D:\programacionIIIvmml\tareas\tarea 6\tarea 6\obj\Debug\tarea 6.csproj.CoreCompileInputs.cache
+D:\programacionIIIvmml\tareas\tarea 6\tarea 6\obj\Debug\tarea 6.exe
+D:\programacionIIIvmml\tareas\tarea 6\tarea 6\obj\Debug\tarea 6.pdb
