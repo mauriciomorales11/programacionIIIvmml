@@ -1,0 +1,7 @@
+G:\Victor\3 ejercicio\3 ejercicio\bin\Debug\3 ejercicio.exe.config
+G:\Victor\3 ejercicio\3 ejercicio\bin\Debug\3 ejercicio.exe
+G:\Victor\3 ejercicio\3 ejercicio\bin\Debug\3 ejercicio.pdb
+G:\Victor\3 ejercicio\3 ejercicio\obj\Debug\3 ejercicio.csprojAssemblyReference.cache
+G:\Victor\3 ejercicio\3 ejercicio\obj\Debug\3 ejercicio.csproj.CoreCompileInputs.cache
+G:\Victor\3 ejercicio\3 ejercicio\obj\Debug\3 ejercicio.exe
+G:\Victor\3 ejercicio\3 ejercicio\obj\Debug\3 ejercicio.pdb
