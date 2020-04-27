@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Escritorio\Universal\Universal\obj\Debug\Universal.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\Universal\Universal\obj\Debug\Universal.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Universal\Universal\bin\Debug\Universal.exe.config
+C:\Users\HP\OneDrive\Escritorio\Universal\Universal\bin\Debug\Universal.exe
+C:\Users\HP\OneDrive\Escritorio\Universal\Universal\bin\Debug\Universal.pdb
+C:\Users\HP\OneDrive\Escritorio\Universal\Universal\obj\Debug\Universal.exe
+C:\Users\HP\OneDrive\Escritorio\Universal\Universal\obj\Debug\Universal.pdb
