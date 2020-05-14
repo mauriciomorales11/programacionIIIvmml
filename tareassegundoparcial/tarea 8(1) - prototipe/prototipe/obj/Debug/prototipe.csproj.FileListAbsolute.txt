@@ -1,0 +1,14 @@
+G:\Victor\prototipe\prototipe\bin\Debug\prototipe.exe.config
+G:\Victor\prototipe\prototipe\bin\Debug\prototipe.exe
+G:\Victor\prototipe\prototipe\bin\Debug\prototipe.pdb
+G:\Victor\prototipe\prototipe\obj\Debug\prototipe.csprojAssemblyReference.cache
+G:\Victor\prototipe\prototipe\obj\Debug\prototipe.csproj.CoreCompileInputs.cache
+G:\Victor\prototipe\prototipe\obj\Debug\prototipe.exe
+G:\Victor\prototipe\prototipe\obj\Debug\prototipe.pdb
+D:\programacionIIIvmml\tareas segundo parcial\tarea 8(1) - prototipe\prototipe\bin\Debug\prototipe.exe.config
+D:\programacionIIIvmml\tareas segundo parcial\tarea 8(1) - prototipe\prototipe\bin\Debug\prototipe.exe
+D:\programacionIIIvmml\tareas segundo parcial\tarea 8(1) - prototipe\prototipe\bin\Debug\prototipe.pdb
+D:\programacionIIIvmml\tareas segundo parcial\tarea 8(1) - prototipe\prototipe\obj\Debug\prototipe.csprojAssemblyReference.cache
+D:\programacionIIIvmml\tareas segundo parcial\tarea 8(1) - prototipe\prototipe\obj\Debug\prototipe.csproj.CoreCompileInputs.cache
+D:\programacionIIIvmml\tareas segundo parcial\tarea 8(1) - prototipe\prototipe\obj\Debug\prototipe.exe
+D:\programacionIIIvmml\tareas segundo parcial\tarea 8(1) - prototipe\prototipe\obj\Debug\prototipe.pdb

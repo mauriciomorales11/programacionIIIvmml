@@ -1,0 +1,14 @@
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\TareaBicola\TareaBicola\obj\Debug\TareaBicola.csprojAssemblyReference.cache
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\TareaBicola\TareaBicola\obj\Debug\TareaBicola.csproj.CoreCompileInputs.cache
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\TareaBicola\TareaBicola\bin\Debug\TareaBicola.exe.config
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\TareaBicola\TareaBicola\bin\Debug\TareaBicola.exe
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\TareaBicola\TareaBicola\bin\Debug\TareaBicola.pdb
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\TareaBicola\TareaBicola\obj\Debug\TareaBicola.exe
+H:\Repositorio de Programacion\programacionIIICAJ\Tareas\TareaBicola\TareaBicola\obj\Debug\TareaBicola.pdb
+D:\programacionIIICAJ\Tareas\TareaBicola\TareaBicola\bin\Debug\TareaBicola.exe.config
+D:\programacionIIICAJ\Tareas\TareaBicola\TareaBicola\bin\Debug\TareaBicola.exe
+D:\programacionIIICAJ\Tareas\TareaBicola\TareaBicola\bin\Debug\TareaBicola.pdb
+D:\programacionIIICAJ\Tareas\TareaBicola\TareaBicola\obj\Debug\TareaBicola.csprojAssemblyReference.cache
+D:\programacionIIICAJ\Tareas\TareaBicola\TareaBicola\obj\Debug\TareaBicola.csproj.CoreCompileInputs.cache
+D:\programacionIIICAJ\Tareas\TareaBicola\TareaBicola\obj\Debug\TareaBicola.exe
+D:\programacionIIICAJ\Tareas\TareaBicola\TareaBicola\obj\Debug\TareaBicola.pdb

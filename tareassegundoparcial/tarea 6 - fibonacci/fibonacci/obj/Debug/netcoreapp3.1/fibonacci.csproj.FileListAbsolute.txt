@@ -1,0 +1,13 @@
+D:\fibonacci\fibonacci\bin\Debug\netcoreapp3.1\fibonacci.exe
+D:\fibonacci\fibonacci\bin\Debug\netcoreapp3.1\fibonacci.deps.json
+D:\fibonacci\fibonacci\bin\Debug\netcoreapp3.1\fibonacci.runtimeconfig.json
+D:\fibonacci\fibonacci\bin\Debug\netcoreapp3.1\fibonacci.runtimeconfig.dev.json
+D:\fibonacci\fibonacci\bin\Debug\netcoreapp3.1\fibonacci.dll
+D:\fibonacci\fibonacci\bin\Debug\netcoreapp3.1\fibonacci.pdb
+D:\fibonacci\fibonacci\obj\Debug\netcoreapp3.1\fibonacci.csprojAssemblyReference.cache
+D:\fibonacci\fibonacci\obj\Debug\netcoreapp3.1\fibonacci.csproj.CoreCompileInputs.cache
+D:\fibonacci\fibonacci\obj\Debug\netcoreapp3.1\fibonacci.AssemblyInfoInputs.cache
+D:\fibonacci\fibonacci\obj\Debug\netcoreapp3.1\fibonacci.AssemblyInfo.cs
+D:\fibonacci\fibonacci\obj\Debug\netcoreapp3.1\fibonacci.dll
+D:\fibonacci\fibonacci\obj\Debug\netcoreapp3.1\fibonacci.pdb
+D:\fibonacci\fibonacci\obj\Debug\netcoreapp3.1\fibonacci.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+D:\programacionlllMANT\zoologico\trabajo1\trabajo1\bin\Debug\trabajo1.exe.config
+D:\programacionlllMANT\zoologico\trabajo1\trabajo1\bin\Debug\trabajo1.exe
+D:\programacionlllMANT\zoologico\trabajo1\trabajo1\bin\Debug\trabajo1.pdb
+D:\programacionlllMANT\zoologico\trabajo1\trabajo1\obj\Debug\Fabicadeanimales.csprojAssemblyReference.cache
+D:\programacionlllMANT\zoologico\trabajo1\trabajo1\obj\Debug\Fabicadeanimales.csproj.CoreCompileInputs.cache
+D:\programacionlllMANT\zoologico\trabajo1\trabajo1\obj\Debug\trabajo1.exe
+D:\programacionlllMANT\zoologico\trabajo1\trabajo1\obj\Debug\trabajo1.pdb
