@@ -1,0 +1,4 @@
+C:\Users\HP\OneDrive\Escritorio\ejercicio 1 - 2do parcial VM\ejercicio 1 - 2do parcial VM\obj\Debug\netcoreapp3.1\ejercicio 1 - 2do parcial VM.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\ejercicio 1 - 2do parcial VM\ejercicio 1 - 2do parcial VM\obj\Debug\netcoreapp3.1\ejercicio 1 - 2do parcial VM.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\ejercicio 1 - 2do parcial VM\ejercicio 1 - 2do parcial VM\obj\Debug\netcoreapp3.1\ejercicio 1 - 2do parcial VM.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Escritorio\ejercicio 1 - 2do parcial VM\ejercicio 1 - 2do parcial VM\obj\Debug\netcoreapp3.1\ejercicio 1 - 2do parcial VM.AssemblyInfo.cs

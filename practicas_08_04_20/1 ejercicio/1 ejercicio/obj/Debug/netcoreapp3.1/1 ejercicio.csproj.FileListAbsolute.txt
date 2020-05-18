@@ -11,3 +11,16 @@ F:\Victor\1 ejercicio\1 ejercicio\obj\Debug\netcoreapp3.1\1 ejercicio.AssemblyIn
 F:\Victor\1 ejercicio\1 ejercicio\obj\Debug\netcoreapp3.1\1 ejercicio.dll
 F:\Victor\1 ejercicio\1 ejercicio\obj\Debug\netcoreapp3.1\1 ejercicio.pdb
 F:\Victor\1 ejercicio\1 ejercicio\obj\Debug\netcoreapp3.1\1 ejercicio.genruntimeconfig.cache
+D:\programacionIIIvmml\practicas_08_04_20\1 ejercicio\1 ejercicio\bin\Debug\netcoreapp3.1\1 ejercicio.exe
+D:\programacionIIIvmml\practicas_08_04_20\1 ejercicio\1 ejercicio\bin\Debug\netcoreapp3.1\1 ejercicio.deps.json
+D:\programacionIIIvmml\practicas_08_04_20\1 ejercicio\1 ejercicio\bin\Debug\netcoreapp3.1\1 ejercicio.runtimeconfig.json
+D:\programacionIIIvmml\practicas_08_04_20\1 ejercicio\1 ejercicio\bin\Debug\netcoreapp3.1\1 ejercicio.runtimeconfig.dev.json
+D:\programacionIIIvmml\practicas_08_04_20\1 ejercicio\1 ejercicio\bin\Debug\netcoreapp3.1\1 ejercicio.dll
+D:\programacionIIIvmml\practicas_08_04_20\1 ejercicio\1 ejercicio\bin\Debug\netcoreapp3.1\1 ejercicio.pdb
+D:\programacionIIIvmml\practicas_08_04_20\1 ejercicio\1 ejercicio\obj\Debug\netcoreapp3.1\1 ejercicio.csprojAssemblyReference.cache
+D:\programacionIIIvmml\practicas_08_04_20\1 ejercicio\1 ejercicio\obj\Debug\netcoreapp3.1\1 ejercicio.csproj.CoreCompileInputs.cache
+D:\programacionIIIvmml\practicas_08_04_20\1 ejercicio\1 ejercicio\obj\Debug\netcoreapp3.1\1 ejercicio.AssemblyInfoInputs.cache
+D:\programacionIIIvmml\practicas_08_04_20\1 ejercicio\1 ejercicio\obj\Debug\netcoreapp3.1\1 ejercicio.AssemblyInfo.cs
+D:\programacionIIIvmml\practicas_08_04_20\1 ejercicio\1 ejercicio\obj\Debug\netcoreapp3.1\1 ejercicio.dll
+D:\programacionIIIvmml\practicas_08_04_20\1 ejercicio\1 ejercicio\obj\Debug\netcoreapp3.1\1 ejercicio.pdb
+D:\programacionIIIvmml\practicas_08_04_20\1 ejercicio\1 ejercicio\obj\Debug\netcoreapp3.1\1 ejercicio.genruntimeconfig.cache

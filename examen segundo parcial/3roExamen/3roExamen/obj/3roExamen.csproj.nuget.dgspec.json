@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programacionIIIvmml\\practicas_08_04_20\\1 ejercicio\\1 ejercicio\\1 ejercicio.csproj": {}
+    "D:\\3roExamen\\3roExamen\\3roExamen.csproj": {}
   },
   "projects": {
-    "D:\\programacionIIIvmml\\practicas_08_04_20\\1 ejercicio\\1 ejercicio\\1 ejercicio.csproj": {
+    "D:\\3roExamen\\3roExamen\\3roExamen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programacionIIIvmml\\practicas_08_04_20\\1 ejercicio\\1 ejercicio\\1 ejercicio.csproj",
-        "projectName": "1 ejercicio",
-        "projectPath": "D:\\programacionIIIvmml\\practicas_08_04_20\\1 ejercicio\\1 ejercicio\\1 ejercicio.csproj",
+        "projectUniqueName": "D:\\3roExamen\\3roExamen\\3roExamen.csproj",
+        "projectName": "3roExamen",
+        "projectPath": "D:\\3roExamen\\3roExamen\\3roExamen.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\programacionIIIvmml\\practicas_08_04_20\\1 ejercicio\\1 ejercicio\\obj\\",
+        "outputPath": "D:\\3roExamen\\3roExamen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
