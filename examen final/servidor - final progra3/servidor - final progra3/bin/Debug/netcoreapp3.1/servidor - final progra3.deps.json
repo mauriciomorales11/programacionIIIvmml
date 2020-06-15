@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "servidor - final progra3/1.0.0": {
+        "runtime": {
+          "servidor - final progra3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "servidor - final progra3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

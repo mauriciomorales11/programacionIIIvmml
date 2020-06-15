@@ -1,0 +1,13 @@
+C:\Users\HP\OneDrive\Escritorio\servidor - final progra3\servidor - final progra3\bin\Debug\netcoreapp3.1\servidor - final progra3.exe
+C:\Users\HP\OneDrive\Escritorio\servidor - final progra3\servidor - final progra3\bin\Debug\netcoreapp3.1\servidor - final progra3.deps.json
+C:\Users\HP\OneDrive\Escritorio\servidor - final progra3\servidor - final progra3\bin\Debug\netcoreapp3.1\servidor - final progra3.runtimeconfig.json
+C:\Users\HP\OneDrive\Escritorio\servidor - final progra3\servidor - final progra3\bin\Debug\netcoreapp3.1\servidor - final progra3.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Escritorio\servidor - final progra3\servidor - final progra3\bin\Debug\netcoreapp3.1\servidor - final progra3.dll
+C:\Users\HP\OneDrive\Escritorio\servidor - final progra3\servidor - final progra3\bin\Debug\netcoreapp3.1\servidor - final progra3.pdb
+C:\Users\HP\OneDrive\Escritorio\servidor - final progra3\servidor - final progra3\obj\Debug\netcoreapp3.1\servidor - final progra3.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\servidor - final progra3\servidor - final progra3\obj\Debug\netcoreapp3.1\servidor - final progra3.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\servidor - final progra3\servidor - final progra3\obj\Debug\netcoreapp3.1\servidor - final progra3.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Escritorio\servidor - final progra3\servidor - final progra3\obj\Debug\netcoreapp3.1\servidor - final progra3.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Escritorio\servidor - final progra3\servidor - final progra3\obj\Debug\netcoreapp3.1\servidor - final progra3.dll
+C:\Users\HP\OneDrive\Escritorio\servidor - final progra3\servidor - final progra3\obj\Debug\netcoreapp3.1\servidor - final progra3.pdb
+C:\Users\HP\OneDrive\Escritorio\servidor - final progra3\servidor - final progra3\obj\Debug\netcoreapp3.1\servidor - final progra3.genruntimeconfig.cache
